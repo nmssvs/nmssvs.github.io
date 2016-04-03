@@ -2,7 +2,8 @@
 layout: post
 title:  "Soijasuikaleburritoja"
 date:   2016-03-28 12:27:32 +0200
-categories: resepti pääruoka meksikolainen
+categories: resepti
+tags: pääruoka meksikolainen
 ---
 
 ![Burritot]({{ site.url }}/images/recipes/2016-03-28-burritot1.jpg)

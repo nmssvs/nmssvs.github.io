@@ -2,7 +2,8 @@
 layout: post
 title:  "Leffanapsuja"
 date:   2016-03-28 20:00:00 +0200
-categories: resepti jälkiruoka naposteltavaa
+categories: resepti
+tags: jälkiruoka
 ---
 
 ![Leffanapsut]({{ site.url }}/images/recipes/2016-03-28-napsut1.jpg)

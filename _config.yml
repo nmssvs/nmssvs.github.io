@@ -10,6 +10,3 @@ github_username:  nmssvs
 
 # Build settings
 markdown: kramdown
-
-tag_page_layout: tag_page
-tag_page_dir: tag

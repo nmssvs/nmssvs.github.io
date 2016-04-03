@@ -4,7 +4,7 @@ title:  "Soijasuikaleburritoja"
 date:   2016-03-28 12:27:32 +0200
 author: Verna Koskinen
 categories: resepti
-tags: pääruoka meksikolainen
+tags: Pääruoka Meksikolainen
 ---
 
 ![Burritot]({{ site.url }}/images/recipes/2016-03-28-burritot1.jpg)

@@ -4,7 +4,7 @@ title:  "Leffanapsuja"
 date:   2016-03-28 20:00:00 +0200
 author: Verna Koskinen
 categories: resepti
-tags: jälkiruoka
+tags: Jälkiruoka
 ---
 
 ![Leffanapsut]({{ site.url }}/images/recipes/2016-03-28-napsut1.jpg)

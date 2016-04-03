@@ -1,15 +1,20 @@
 ---
 layout: page
-title: About
+title: Meistä
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Jokainen kasvissyöjä on kuullut tämän miljoona kertaa (tai ainakin me, otoskoko on kieltämättä 
+melko pieni) “Mitä sä sitten voit syödä?” kun kerrot sekasyöjälle ettet syö lihaa tai muita 
+eläintuotteita sisältävää ruokaa. “Kaikkea” ei yleensä koeta tyydyttäväksi vastaukseksi, mistä 
+kumpusi halu perustaa tämä blogi. Näyttämällä on paljon helpompi avata mitä muuta kuin 
+salaatinlehtiä ja porkkanaa vegaanin elämään voi kulinaristisessa mielessä kuulua. :) 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Blogia ylläpitää lähes vegaani kasvissyöjäpariskunta Helsingistä, kaikki ruuat ovat vegaanisia 
+ellei muuten mainita. Itse tekemäämme ruokaan kuuluu (ainakin yleensä) valmistusohjeet, joita ei 
+ole tarkoitus seurata pilkuntarkasti. Ruoanlaitto ei ole rakettitiedettä, ainesosia voi yhdistellä 
+oman maun mukaan ja sekaan kannatta heittää jääkaapin perältä uhkaavasti vanhenemista lähestyviä 
+tuotteita ennen kuin on myöhäistä. Meillä ei ainakaan koskaan käytetä mittoja tai vaakoja määrien 
+varmistamiseen joten ne ovat myös ohjeissa suuntaa antavia. Lisäksi mahdolliset statistiikat 
+annoksien sisällöistä ja hinnoista on vain sen hetkisiä arvioita (ravintoainetiedot arvioitu 
+Finelin tai paketin tietojen mukaan).

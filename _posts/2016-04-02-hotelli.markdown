@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Hotelliaamiaista"
+date:   2016-04-02 10:00:00 +0200
+photo: /images/recipes/2016-04-02-hotelli1.jpg
+author: Verna Koskinen
+categories: ulkona
+tags: Aamupala
+---
+
+Scandicin Tampere Station -hotellissa oli reilu valikoima vegaaniin ruokavalioon sopivia aineksia buffetaamiaisella. Proteiininlähteinä tarjottiin ainakin lämpimiä papuja ja kaurapuuroa, sekä erilaisia pähkinöitä ja siemeniä. Vegaania juustoa ei ollut, mutta kasvimaitoa löytyi. Marjoja ja hedelmiä oli monipuolisesti. Kyllä näillä eväillä päivä lähti hyvin käyntiin. :)

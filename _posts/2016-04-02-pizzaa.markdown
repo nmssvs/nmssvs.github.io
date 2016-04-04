@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "Mexicana pizzaa"
+date:   2016-04-02 21:00:00 +0200
+photo: /images/recipes/2016-04-02-pizza1.jpg
+author: Verna Koskinen
+categories: resepti
+tags: Pääruoka Pizza
+---
+
+Tulista perjantaipizzaa!
+
+**Pizzapohja (1 kpl):**
+
+- 1 dl vettä
+- loraus öljyä
+- 1/4 pussillinen kuivahiivaa
+- jauhoja
+
+Lämmitä vesi ja lisää siihen kuivahiiva. Loput hiivasta säilyy pakkasessa seuraavaa käyttökertaa varten. Lorauta sekaan n. ruokalusikallinen öljyä ja sekoita sekaan jauhoja (esim. hiukan ruisjauhoja, vähän enemmän durumvehnäjauhoja ja vähintään puolet vehnäjauhoja) kunnes taikina on sopivan kiinteää jotta sen voi taputella pizzapohjan muotoiseksi. Aseta uuni lämpenemään niin kuumalle kuin sen saa. Parasta pizzasta tulee, jos käytössä on pizzakivi. Jos ei, laita uuniin uunilevy lämpenemään kiven sijasta (ja tilaa pizzakivi :). Anna taikinan levätä kankaan alla sillä aikaa kun valmistelet täytteet.
+
+![pizzataikina]({{ site.url }}/images/recipes/2016-04-02-pizza2.jpg)
+
+Valmiin pizzataikinan koostumus.
+
+**Täytteet:**
+
+- Tomaattipyreetä
+- Mustapapuja chilikastikkeessa (kuva alla)
+- Vegejuustoa
+- Tomaattisiivuja
+- Salamisiivuja (esim. Wheaty)
+- Pieniä ananaspaloja
+- Jalapenoja
+
+Painele pizzataikina leivinpaperin päällä pizzan muotoiseksi. Levitä taikinan päälle n. 50 g mustapapuseosta ja riittävästi tomaattipyreetä, jotta pohjalla on tasaisen ohut kerros kastiketta. Ripottele päälle ohut kerros raastettua vegejuustoa.
+
+Asettele salami, tomaatti, ananakset ja jalapenot niin ettei aineksia ole päällekkäin. Paista kuuman kiven tai pellin päällä n. 5 minuuttia. Vahdi pizzan reunoja, valmista on kun reuna saa kauniin värin. Varsinkin kiven kanssa kannattaa vahtia pizzaa tarkkaan jottei sitä polta.
+
+![mustapapukastike]({{ site.url }}/images/recipes/2016-04-02-pizza3.jpg)
+
+Mustapapuja chilikastikkeessa, tätä löytää etnokaupoista, mutta myös vastaava hyvin maustettu mustapapukastike käy.
+
+![valmis pizza]({{ site.url }}/images/recipes/2016-04-02-pizza4.jpg)
+
+Valmis pizza, päälle voi laittaa srirachaa tms. chilikastiketta jos tulinen ruoka on se juttu. Mustapapukastike itsessään on jo hyvin tulista, joten voi olla hyvä tehdä makutesti ensin. :)
+
+**Yksi pizza:**
+
+- 4€
+- 950 kcal
+- 35 g proteiinia
+- 90 g hiilihydraatteja
+- 50 g rasvaa
+
+Verrokkina pizza eläinperäisellä meetvurstilla, 950 kcal, 30g proteiinia, 90g hiilareita, 50g rasvaa.

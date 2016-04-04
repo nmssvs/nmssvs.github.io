@@ -2,12 +2,11 @@
 layout: post
 title:  "Leffanapsuja"
 date:   2016-03-28 20:00:00 +0200
+photo: /images/recipes/2016-03-28-napsut1.jpg
 author: Verna Koskinen
 categories: resepti
 tags: Jälkiruoka
 ---
-
-![Leffanapsut]({{ site.url }}/images/recipes/2016-03-28-napsut1.jpg)
 
 Kiinankaalin ostin blogin kuvitusta varten ja mikä olisikaan parempi käyttö sille mallina toimimisen jälkeen kuin dippaus! Kiinankaali sopii siihen yllättävän hyvin ja on sipsejä kevyempi vaihtoehto. Mansikoille tietenkin suklaata. Kannattaa kokeilla!
 

@@ -9,6 +9,7 @@ layout: default
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%d.%m.%Y" }}</time>
       • {% if page.author %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }} • </span></span>{% endif %}
       <span class="blog_post_categories">{% for tag in page.tags %}{% include tags.html %}{% endfor %}</span>
+      <img src="{{ page.photo }}" alt="{{ page.title }}">
     </p>
   </header>
 

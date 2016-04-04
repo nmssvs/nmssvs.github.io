@@ -207,6 +207,10 @@
       filter: brightness(75%);
     }
 
+    > img:hover {
+      filter: brightness(65%);
+    }
+
     > h2 {
       position: absolute;
       top: 240px;

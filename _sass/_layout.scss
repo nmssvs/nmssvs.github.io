@@ -234,10 +234,52 @@ p.rss-subscribe {
 
 
 /**
+ * Pages
+ */
+.page-header {
+  margin-bottom: $spacing-unit;
+}
+
+.page-title {
+  font-size: 42px;
+  letter-spacing: -1px;
+  line-height: 1;
+
+  @include media-query($on-laptop) {
+    font-size: 36px;
+  }
+}
+
+
+
+/**
  * Posts
  */
 .post-header {
   margin-bottom: $spacing-unit;
+  position: relative;
+
+  > img {
+    filter: brightness(75%);
+  }
+
+  > .post-meta {
+    position: absolute;
+    width: 100%;
+    bottom: 10px;
+    color: white;
+
+    > h1, p {
+      width: -webkit-calc(#{$content-width} - 200px - (#{$spacing-unit} * 2));
+      width:         calc(#{$content-width} - 200px - (#{$spacing-unit} * 2));
+      margin-right: auto;
+      margin-left: auto;
+    }
+
+    > h1 {
+      font-weight: 700;
+    }
+  }
 }
 
 .post-title {
@@ -251,7 +293,31 @@ p.rss-subscribe {
 }
 
 .post-content {
+  max-width: -webkit-calc(#{$content-width} - 200px - (#{$spacing-unit} * 2));
+  max-width:         calc(#{$content-width} - 200px - (#{$spacing-unit} * 2));
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 0;
   margin-bottom: $spacing-unit;
+
+  @include media-query($on-laptop) {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+    padding-right: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+  }
+
+  > p, ul {
+    font-size: 21px;
+    color: rgba(0,0,0,0.8);
+    letter-spacing: -0.066667px;
+    line-height: 33px;
+
+    @include media-query($on-laptop) {
+      font-size: 16px;
+      line-height: 28px;
+    }
+  }
 
   h2 {
     font-size: 32px;

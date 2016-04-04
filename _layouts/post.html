@@ -1,16 +1,19 @@
 ---
 layout: default
 ---
+</div>
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
+    <img src="{{ page.photo }}" alt="{{ page.title }}">
+    <div class="post-meta">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta">
+    <p>
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%d.%m.%Y" }}</time>
       • {% if page.author %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }} • </span></span>{% endif %}
       <span class="blog_post_categories">{% for tag in page.tags %}{% include tags.html %}{% endfor %}</span>
-      <img src="{{ page.photo }}" alt="{{ page.title }}">
     </p>
+    </div>
   </header>
 
   <div class="post-content" itemprop="articleBody">
@@ -18,3 +21,4 @@ layout: default
   </div>
 
 </article>
+<div class="wrapper">

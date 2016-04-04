@@ -207,10 +207,6 @@
       filter: brightness(75%);
     }
 
-    > img:hover {
-      filter: brightness(65%);
-    }
-
     > h2 {
       position: absolute;
       top: 240px;
@@ -219,6 +215,10 @@
       font-weight: 700;
     }
   }
+}
+
+.post-block:hover {
+  filter: brightness(95%);
 }
 
 .post-meta {

@@ -194,12 +194,22 @@
     text-decoration: none;
     color: white;
 
-    > span {
+    > .title-block {
       position: absolute;
-      top: 230px;
+      bottom: 15px;
       left: 10px;
       width: 100%;
-      color: white;
+      line-height: 1;
+
+      > span {
+        color: white;
+      }
+
+      > h2 {
+        font-weight: 700;
+        margin: 0;
+      }
+
     }
 
     > img {
@@ -207,13 +217,6 @@
       filter: brightness(75%);
     }
 
-    > h2 {
-      position: absolute;
-      top: 240px;
-      left: 10px;
-      width: 100%;
-      font-weight: 700;
-    }
   }
 }
 

@@ -181,6 +181,34 @@
 
     > li {
         margin-bottom: $spacing-unit;
+        position: relative;
+        width: 100%;
+        
+        > a {
+          text-decoration: none;
+          color: white;
+
+          > span {
+            position: absolute;
+            top: 230px;
+            left: 10px;
+            width: 100%;
+            color: white;
+          }
+
+          > img {
+            height: 300px;
+            filter: brightness(75%);
+          }
+
+          > h2 {
+            position: absolute;
+            top: 240px;
+            left: 10px;
+            width: 100%;
+            font-weight: 700;
+          }
+        }
     }
 }
 

@@ -10,3 +10,7 @@ github_username:  nmssvs
 
 # Build settings
 markdown: kramdown
+
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "/sivu:num/"

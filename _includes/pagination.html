@@ -1,0 +1,23 @@
+<div class="pagination">
+  {% if paginator.total_pages != 1 and paginator.page != 1 %}
+  <a href="{{ paginator.previous_page_path }}">&larr;</a>
+  {% endif %}
+
+  {% if paginator.page != 1 %}
+  <a href="/">1</a>
+  {% else %}
+  <span>1 </span>
+  {% endif %}
+
+  {% for page_number in (2..paginator.total_pages) %}
+    {% if paginator.page != page_number %}
+    <a href="/sivu{{ page_number }}"> {{ page_number }}</a>
+    {% else %}
+    <span> {{ page_number }} </span>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.total_pages != 1 and paginator.page != paginator.total_pages %}
+  <a href="{{ paginator.next_page_path }}">&rarr;</a>
+  {% endif %}
+</div>

@@ -54,7 +54,11 @@ function resizeEveryOtherPair(imgContainers, postListWidth) {
     })
 }
 
-var postListWidth = document.getElementsByClassName('post-list')[0].offsetWidth
-var imgContainers = document.getElementsByClassName('post-img-container')
+function orderImages() {
+    var postListWidth = document.getElementsByClassName('post-list')[0].offsetWidth
+    var imgContainers = document.getElementsByClassName('post-img-container')
 
-resizeEveryOtherPair(imgContainers, postListWidth - MARGIN)
+    resizeEveryOtherPair(imgContainers, postListWidth - MARGIN)
+}
+
+window.onload = orderImages

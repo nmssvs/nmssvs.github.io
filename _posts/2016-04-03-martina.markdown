@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Lankkupizzaa"
+date:   2016-04-03 22:00:00 +0200
+photo: /images/restaurants/2016-04-03-martina1.jpg
+author: Verna Koskinen
+categories: ulkona
+restaurant: Martina (Hyvinkää)
+tags: Pääruoka
+---
+
+Käytiin Hyvinkään Martinassa syntymäpäiväjuhlissa. Tarjoilija ei aluksi tiennyt mitä vegaani tarkoittaa, mutta pienen selvittelyn jälkeen saatiin tilattua listalta tomaattikeitto ilman pestoa ja juustoa (kuva alla), sekä lankkupizza ilman juustoa (kuva yllä) muiden vegaanisten vaihtoehtojen puuttuessa. Pizzapohja oli erinomainen, joten juuston puute ei haitannut.
+
+![Tomaattikeitto]({{ site.url }}/images/restaurants/2016-04-03-martina2.jpg)
+
+Palvelu oli oikein hyvää ja vegaanisten jälkiruokavaihtoehtojen puutteessa meille tehtiin jälkkäriksi hedelmäsalaatti, joka vielä tarjottiin ravintolan puolesta.
+
+![Hedelmäsalaatti]({{ site.url }}/images/restaurants/2016-04-03-martina3.jpg)
+
+Ehkä tähän ravintolaan kannattaa olla yhteydessä jo etukäteen jos tietää olevansa menossa sinne ja kaipaavansa vegaania ruokaa. Uskoisin että silloin tarjonta olisi vieläkin parempaa.

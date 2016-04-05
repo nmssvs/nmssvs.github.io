@@ -10,6 +10,7 @@ layout: default
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p>
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%d.%m.%Y" }}</time>
+      {% if page.categories contains 'ulkona' %}• <span>{{ page.restaurant }}</span>{% endif %}
       • {% if page.author %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }} • </span></span>{% endif %}
       <span class="blog_post_categories">{% for tag in page.tags %}{% include tags.html %}{% endfor %}</span>
     </p>

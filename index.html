@@ -14,6 +14,9 @@ layout: default
           <img src="{{ post.photo }}" alt="{{ post.title }}">
           <div class="title-block">
             <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }}</span>
+            {% if post.categories contains 'ulkona' %}
+              <span class="post-meta">{{ post.restaurant }}</span>
+            {% endif %}
             <h2>{{ post.title }}</h2>
           </div>
         </a>

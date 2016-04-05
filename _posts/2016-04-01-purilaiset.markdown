@@ -5,6 +5,7 @@ date:   2016-04-01 20:00:00 +0200
 photo: /images/recipes/2016-04-01-purilainen1.jpg
 author: Verna Koskinen
 categories: ulkona
+restaurant: Gopal (Tampere)
 tags: Pääruoka
 ---
 

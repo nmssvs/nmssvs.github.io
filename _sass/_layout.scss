@@ -243,6 +243,25 @@ p.rss-subscribe {
 
 
 /**
+ * Pagination
+ */
+.pagination {
+  width: 100%;
+  text-align: center;
+  font-size: 22px;
+
+  > span {
+    color: $grey-color;
+  }
+
+  > a {
+    text-decoration: none;
+  }
+}
+
+
+
+/**
  * Pages
  */
 .page-header {

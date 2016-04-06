@@ -17,8 +17,10 @@ function resizeEveryOtherPair(imgContainers, postListWidth) {
     }
 
     function cropImage(image, cropWidth) {
+        console.log(image.offsetWidth)
         var cutMargin = (cropWidth - image.offsetWidth) / 2
-        image.style.margin = cutMargin + ' 0 0 ' + cutMargin
+        image.style.margin = '0 ' + cutMargin + 'px 0 ' + cutMargin +'px'
+        console.log(cutMargin, image.offsetWidth)
     }
 
     function setContainerWidth(container, width) {
@@ -37,8 +39,10 @@ function resizeEveryOtherPair(imgContainers, postListWidth) {
 
     function setContainerWidthBasedOnNextImage(container, nextImgWidth) {
         if (nextImgWidth > MAX_WIDTH) {
+            cropImage(imageUnder(container), postListWidth - MAX_WIDTH)
             setContainerWidth(container, postListWidth - MAX_WIDTH)
         } else {
+            cropImage(imageUnder(container), postListWidth - nextImgWidth)
             setContainerWidth(container, postListWidth - nextImgWidth)
         }
     }
@@ -49,7 +53,7 @@ function resizeEveryOtherPair(imgContainers, postListWidth) {
         } else if (i % 2 == 0 && i < imgContainers.length - 1) {
             setContainerWidthBasedOnNextImage(container, ithImageWidth(i+1))
         } else {
-            setContainerWidth(container, postListWidth - ithImageWidth(i-1))
+            setContainerWidthBasedOnNextImage(container, ithImageWidth(i-1))
         }
     })
 }

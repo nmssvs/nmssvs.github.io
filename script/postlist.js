@@ -54,7 +54,16 @@ function resizeEveryOtherPair(imgContainers, postListWidth) {
     })
 }
 
+function removeNojavascriptClasses() {
+    var liElements = document.querySelectorAll('.nojavascript')
+    for (var i = 0; i < liElements.length; i++) {
+        liElements[i].className = liElements[i].className.replace(/nojavascript/,'')
+    }
+}
+
 function orderImages() {
+    removeNojavascriptClasses()
+
     var postListWidth = document.getElementsByClassName('post-list')[0].offsetWidth
     var imgContainers = document.getElementsByClassName('post-img-container')
 

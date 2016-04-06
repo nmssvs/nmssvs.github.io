@@ -190,6 +190,12 @@
   
   > .nojavascript {
     width: 49%;
+  } 
+}
+
+@media (max-width: 650px) {
+  .post-list > li.post-img-container {
+    width: 100%;
   }
 }
 

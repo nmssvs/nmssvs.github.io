@@ -22,7 +22,7 @@ function resizeEveryOtherPair(imgContainers, postListWidth) {
     }
 
     function setContainerWidth(container, width) {
-        container.style.width = width + 'px'
+        container.style.maxWidth = width + 'px'
     }
 
     function setContainerWidthToImgWidth(container, i) {
@@ -62,12 +62,14 @@ function removeNojavascriptClasses() {
 }
 
 function orderImages() {
-    removeNojavascriptClasses()
-
     var postListWidth = document.getElementsByClassName('post-list')[0].offsetWidth
-    var imgContainers = document.getElementsByClassName('post-img-container')
 
-    resizeEveryOtherPair(imgContainers, postListWidth - MARGIN)
+    if (postListWidth > 900) {
+        removeNojavascriptClasses()
+
+        var imgContainers = document.getElementsByClassName('post-img-container')
+        resizeEveryOtherPair(imgContainers, postListWidth - MARGIN)
+    }
 }
 
 window.onload = orderImages

@@ -1,13 +1,28 @@
+.home {
+  margin-top: 50px;
+}
 /**
  * Site header
  */
 .site-header {
+  background-color: GhostWhite;
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: 56px;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 1000;
+  opacity: 0.9;
 
-  // Positioning context for the mobile navigation icon
-  position: relative;
+  &.is-hidden {
+    visibility: hidden;
+  }
+
+  &.is-visible {
+    visibility: visible;
+  }
 }
 
 .site-title {
@@ -188,7 +203,7 @@
     margin: 2px 0 3px 0;
     text-align: center;
   }
-  
+
   > .nojavascript {
     width: 49%;
   } 

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Vege-seitania"
+date:   2016-04-05 12:00:00 +0200
+photo: /images/restaurants/2016-04-05-harju2.jpg
+author: Verna Koskinen
+categories: ulkona
+restaurant: Döner Harju
+tags: Lounas
+---
+
+Döner Harjun lounaalla oli tarjolla paahdettua paprikakeittoa ja vege-seitania marokon porkkanoilla, marinoidulla punakaalilla ja grillatulla focaccialeivällä. Annos oli valtava, mutta kevyempien lisukkeiden ansiosta jälkeenpäin ei alkanut väsyttää vaan olo oli melko keveä. Hintaa annoksella oli 9.90, vegaaninen lounas on saatavilla joka päivä.
+
+![Paprikakeitto]({{ site.url }}/images/restaurants/2016-04-05-harju1.jpg)

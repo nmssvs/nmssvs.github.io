@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tagit
+title: Reseptit
 ---
 
 {% capture tags %}
@@ -12,6 +12,7 @@ title: Tagit
 
 <div class="tag-list">
   {% for tag in sortedtags %}
+  {% if tag != 'Illallinen' and tag != 'Lounas' %}
   <div class="tag-block">
     <div class="tag-head">
       <img src="{{ site.tags[tag][0].photo }}">
@@ -19,11 +20,14 @@ title: Tagit
     </div>
     <ul>
       {% for post in site.tags[tag] %}
+      {% if post.categories contains 'resepti' %}
       <li class="tag-item">
         {{ post.date | date: "%d.%m.%Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
+      {% endif %}
       {% endfor %}
     </ul>
   </div>
+  {% endif %}
   {% endfor %}
 </div>

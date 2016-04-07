@@ -10,13 +10,20 @@ title: Tagit
 {% endcapture %}
 {% assign sortedtags = tags | split:' ' | sort %}
 
-{% for tag in sortedtags %}
-<h3 id="{{ tag }}">{{ tag }}</h3>
-<ul>
-  {% for post in site.tags[tag] %}
-  <li>
-    {{ post.date | date: "%d.%m.%Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
+<div class="tag-list">
+  {% for tag in sortedtags %}
+  <div class="tag-block">
+    <div class="tag-head">
+      <img src="{{ site.tags[tag][0].photo }}">
+      <h2 id="{{ tag }}">{{ tag }}</h3>
+    </div>
+    <ul>
+      {% for post in site.tags[tag] %}
+      <li class="tag-item">
+        {{ post.date | date: "%d.%m.%Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
   {% endfor %}
-</ul>
-{% endfor %}
+</div>

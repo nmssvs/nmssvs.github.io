@@ -1,1 +1,5 @@
-<a href="/tags/#{{ tag }}">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
+{% if page.categories contains 'resepti' %}
+<a href="/resepti/#{{ tag }}">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
+{% else %}
+<a href="/ulkona/#{{ page.restaurant }}">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
+{% endif %}

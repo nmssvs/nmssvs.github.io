@@ -415,16 +415,16 @@ p.rss-subscribe {
 
   > .tag-block {
     max-width: 49%;
+    display: inline-block;
+    vertical-align: text-top;
+    margin-bottom: $spacing-unit;
 
     @media (max-width: 650px) {
       max-width: 100%;
     }
 
-    display: inline-block;
-    vertical-align: text-top;
-
     > .tag-head {
-      height: 150px;
+      height: 120px;
       overflow: hidden;
       position: relative;
 
@@ -438,7 +438,7 @@ p.rss-subscribe {
       }
 
       > img {
-        margin-top: -50px;
+        margin-top: -60px;
         filter: brightness(65%);
       }
     }

@@ -1,0 +1,42 @@
+---
+layout: page
+title: Ravintolat
+---
+
+{% capture restaurants %}
+{% for post in site.categories['ulkona'] %}
+{{ post.restaurant }};
+{% endfor %}
+{% endcapture %}
+{% assign rest = restaurants | split:';' | sort %}
+
+<div class="tag-list">
+  {% for i in (1..rest.size) %}
+  {% if rest[i] != null %}
+  {% assign restaurant = rest[i] | strip %}
+  <div class="tag-block">
+    <div class="tag-head">
+      <img src="
+        {% for post in site.categories['ulkona'] %}
+        {% assign postrestaurant = post.restaurant | strip %} 
+        {% if postrestaurant == restaurant %}
+        {{ post.photo }}
+        {% break %}
+        {% endif %}
+        {% endfor %}">
+      <h2 id="{{ restaurant }}">{{ restaurant }}</h3>
+    </div>
+    <ul>
+      {% for post in site.categories['ulkona'] %}
+      {% assign postrestaurant = post.restaurant | strip %}
+      {% if postrestaurant == restaurant %}
+      <li class="tag-item">
+        {{ post.date | date: "%d.%m.%Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>

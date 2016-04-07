@@ -5,7 +5,7 @@ date:   2016-04-04 17:00:00 +0200
 photo: /images/recipes/2016-04-04-mockkana2.jpg
 author: Verna Koskinen
 categories: resepti
-tags: Pääruoka Salaatti
+tags: Salaatti Kevyt
 ---
 
 [Vii Voanista](//www.viivoan.fi/) tarttui matkaan kokeeksi mock chicken säilykepurkki, joka tuoteselosteen mukaan on yhtä kuin seitania suolaliemessä. Mausteena oli käytetty sokeria josta johtuva makea maku oli hiukan häiritsevä mutta muuten suikaleet paistettuina olivat ihan maukkaita ja seianiksi hyvin mureita.

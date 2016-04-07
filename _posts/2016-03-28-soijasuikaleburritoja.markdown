@@ -5,7 +5,7 @@ date:   2016-03-28 12:27:32 +0200
 photo: /images/recipes/2016-03-28-burritot1.jpg
 author: Verna Koskinen
 categories: resepti
-tags: Pääruoka Meksikolainen
+tags: Meksikolainen
 ---
 
 Burritot on kuulunut aina lempiruokiini. Soijasuikaleiden valmistus ohjeen mukaan vaatii hiukan työtä mutta on kaiken vaivan arvoista!

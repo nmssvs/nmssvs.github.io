@@ -5,7 +5,7 @@ date:   2016-04-07 10:00:00 +0200
 photo: /images/recipes/2016-04-07-wokki1.jpg
 author: Verna Koskinen
 categories: resepti
-tags: Pääruoka Itämainen
+tags: Itämainen Kevyt
 ---
 
 Nuudelit ja parsakaaliwokki on superhelppo, nopea ja kevyt wokkiruoka.

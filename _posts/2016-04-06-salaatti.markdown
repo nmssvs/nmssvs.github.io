@@ -5,7 +5,7 @@ date:   2016-04-06 16:00:00 +0200
 photo: /images/recipes/2016-04-06-salaatti1.jpg
 author: Verna Koskinen
 categories: resepti
-tags: Pääruoka Salaatti
+tags: Salaatti Kevyt
 ---
 
 Pakastealtaasta valmiina ostetut soijasuikaleet ovat helppo vaihtoehto kiireisen ruoanlaittoon.

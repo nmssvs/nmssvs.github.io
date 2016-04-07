@@ -5,7 +5,7 @@ date:   2016-03-30 17:00:00 +0200
 photo: /images/recipes/2016-03-30-salaatti1.jpg
 author: Verna Koskinen
 categories: resepti
-tags: Pääruoka Salaatti
+tags: Salaatti
 ---
 
 Maukas ja helppo valmistaa lounaaksi tai päivälliseksi.

@@ -5,7 +5,7 @@ date:   2016-04-02 21:00:00 +0200
 photo: /images/recipes/2016-04-02-pizza1.jpg
 author: Verna Koskinen
 categories: resepti
-tags: Pääruoka Pizza
+tags: Pizza
 ---
 
 Tulista perjantaipizzaa!

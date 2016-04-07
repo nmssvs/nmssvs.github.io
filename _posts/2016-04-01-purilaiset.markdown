@@ -6,7 +6,7 @@ photo: /images/recipes/2016-04-01-purilainen1.jpg
 author: Verna Koskinen
 categories: ulkona
 restaurant: Gopal (Tampere)
-tags: Pääruoka
+tags: Illallinen
 ---
 
 Tampereen reissulla käytiin testaamassa paikallinen kasvisravintolaketju Gopal. Rongankadun ravintolassa oli tarjolla herkullinen buffet, mutta päätettiin tilata listalta kaksi eri hampurilaisateriaa salaatilla ja bataattiranskalaisilla.

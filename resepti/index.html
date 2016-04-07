@@ -14,9 +14,9 @@ title: Reseptit
   {% for tag in sortedtags %}
   {% if tag != 'Illallinen' and tag != 'Lounas' %}
   <div class="tag-block">
-    <div class="tag-head">
+    <div class="tag-head" id="{{ tag }}">
       <img src="{{ site.tags[tag][0].photo }}">
-      <h2 id="{{ tag }}">{{ tag }}</h3>
+      <h2>{{ tag }}</h3>
     </div>
     <ul>
       {% for post in site.tags[tag] %}

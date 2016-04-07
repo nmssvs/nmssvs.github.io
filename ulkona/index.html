@@ -15,7 +15,7 @@ title: Ravintolat
   {% if rest[i] != null %}
   {% assign restaurant = rest[i] | strip %}
   <div class="tag-block">
-    <div class="tag-head">
+    <div class="tag-head" id="{{ restaurant }}">
       <img src="
         {% for post in site.categories['ulkona'] %}
         {% assign postrestaurant = post.restaurant | strip %} 
@@ -24,7 +24,7 @@ title: Ravintolat
         {% break %}
         {% endif %}
         {% endfor %}">
-      <h2 id="{{ restaurant }}">{{ restaurant }}</h3>
+      <h2>{{ restaurant }}</h3>
     </div>
     <ul>
       {% for post in site.categories['ulkona'] %}

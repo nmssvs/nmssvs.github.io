@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Jääkaapintyhjennysleipiä"
+date:   2016-04-13 22:00:00 +0200
+photo: /images/recipes/2016-04-13-leipa1.jpg
+author: Verna Koskinen
+categories: resepti
+tags: Kevyt
+---
+
+Jääkaapissa oli vanhenemista lähestyviä nakkeja ja [rieskarullia]({% post_url 2016-04-10-pulledpork %}) varten hankitut rieskatkin alkoivat lähestyä uhkaavasti vahenemistaan, joten pelastuksena näiden kahden ehkä hiukan epätavallinen yhdistelmä. :)
+
+**Valmistus (2 annosta):**
+
+- 2 rieskalevyä
+- Kasvisnakkeja (esim. Bon Soya)
+- salaattia
+- Tomaatti
+- Pala kurkkua
+- Omena
+- Punasipuli
+- Chilikastiketta
+
+Leikkaa sipuli ja nakit sopiviksi paloiksi ja paista hetki. Paloittele sillä välin muut ainekset. Lämmitä rieskoja mikrossa noin puoli minuuttia ja täytä rieskat sen jälkeen muilla aineksilla.
+
+**Yksi annos:**
+
+- 2.50€
+- 470 kcal
+- 30 g proteiinia
+- 40 g hiilihydraatteja
+- 20 g rasvaa
+
+Verrokkina nakit vaihdettuna eläinperäisiin korvikkeisiin, 510kcal, 20g proteiinia, 35g hiilareita ja 30g rasvaa.

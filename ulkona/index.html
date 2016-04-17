@@ -8,7 +8,18 @@ title: Ravintolat
 {{ post.restaurant }};
 {% endfor %}
 {% endcapture %}
+{% assign unique = '' %}
 {% assign rest = restaurants | split:';' | sort %}
+{% for r in rest %}
+  {% unless unique contains r %}
+    {% if unique == '' %}
+    {% capture unique %}{{ r }}{% endcapture %}
+    {% else %}
+    {% capture unique %}{{ unique }};{{ r }}{% endcapture %}
+    {% endif %}
+  {% endunless %}
+{% endfor %}
+{% assign rest = unique | split:';' %}
 
 <div class="tag-list">
   {% for i in (1..rest.size) %}

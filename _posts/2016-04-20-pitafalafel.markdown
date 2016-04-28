@@ -5,7 +5,7 @@ date:   2016-04-20 19:00:00 +0200
 photo: /images/recipes/2016-04-20-pita.jpg
 author: verna koskinen
 categories: resepti
-tags: Pääruoka
+tags: Lähi-itä
 ---
 
 Pita-leipää falafel täytteellä. Edullista ja rasvaista. :)

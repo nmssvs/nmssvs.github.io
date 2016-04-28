@@ -5,7 +5,7 @@ date:   2016-04-22 19:00:00 +0200
 photo: /images/recipes/2016-04-22-chili.jpg
 author: verna koskinen
 categories: resepti
-tags: Meksikolainen
+tags: Meksikolainen Kevyt
 ---
 
 Perjantain mättöruoaksi valikoitui tänään nopeasti valmistuva chili ja sen kylkeen sopiva tomaatti-maissi salaatti.

@@ -5,7 +5,7 @@ date:   2016-04-11 19:00:00 +0200
 photo: /images/recipes/2016-04-11-hamppari1.jpg
 author: Verna Koskinen
 categories: resepti
-tags: Pääruoka
+tags: Amerikkalainen
 ---
 
 Nimipäivän kunniaksi hampurilaiset, vaikka onkin keskellä viikkoa. :)

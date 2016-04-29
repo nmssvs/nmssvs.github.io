@@ -5,7 +5,7 @@ date:   2016-04-10 19:00:00 +0200
 photo: /images/recipes/2016-04-10-pulledpork1.jpg
 author: Verna Koskinen
 categories: resepti
-tags: Pääruoka
+tags: Amerikkalainen
 ---
 
 Vegaaninen "pulled pork" kävi kokeilussa tänään. Se on valmistettu leipäpuun hedelmästä, joka on maailman suurin hedelmä. Hedelmä on sisältä säikeinen ja siten muistuttaa olemukseltaan hiukan lihaa. Tyynen valtameren saarilla sitä käytetäänkin lihan korvikkeena paljon.

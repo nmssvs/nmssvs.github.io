@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nuggetti salaattia"
+title:  "Nugetti salaattia"
 date:   2016-04-27 19:00:00 +0200
 photo: /images/recipes/2016-04-27-salaatti.jpg
 author: Verna Koskinen
@@ -8,11 +8,11 @@ categories: resepti
 tags: Salaatti
 ---
 
-Hälsans Kök on muuttanut lähiaikoina osan resepteistään vegaanisiksi, kuten tässä ohjeessa käytetyt soijanuggetit. Tuotteita löytyy useimpien kauppojen pakastealtaasta. Ehkä me vielä joskus saadaan taas innostus valmistaa näitäkin itse, mutta toistaiseksi mennään helpolla vaihtoehdolla. :) Paketista riittää hyvin kolmeen annokseen.
+Hälsans Kök on muuttanut lähiaikoina osan resepteistään vegaanisiksi, kuten tässä ohjeessa käytetyt soijanugetit. Tuotteita löytyy useimpien kauppojen pakastealtaasta. Ehkä me vielä joskus saadaan taas innostus valmistaa näitäkin itse, mutta toistaiseksi mennään helpolla vaihtoehdolla. :) Paketista riittää hyvin kolmeen annokseen.
 
 **Valmistus (2 annosta):**
 
-- Soijanuggetteja (esim. Hälsans Kök)
+- Soijanugetteja (esim. Hälsans Kök)
 - Paria erilaista salaattia
 - Pala kurkkua
 - Kirsikkatomaatteja
@@ -26,9 +26,9 @@ Hälsans Kök on muuttanut lähiaikoina osan resepteistään vegaanisiksi, kuten
 - Kypsää avokadoa levitteeksi
 - Vegaaneja paprikaleikkeitä päälle (esim. Wheaty)
 
-Paista soijanuggetit miedolla - keskilämmöllä molemmin puolin. Jos paistoaikaa haluaa lyhentää kannattaa nostaa nuggetit jääkaappiin aamulla, silloin nopea paistoi kuumemmalla pannulla molemmin puolin riittää, kun sulatustarvetta ei ole.
+Paista soijanugetit miedolla - keskilämmöllä molemmin puolin. Jos paistoaikaa haluaa lyhentää kannattaa nostaa nugetit jääkaappiin aamulla, silloin nopea paisto kuumemmalla pannulla molemmin puolin riittää, kun sulatustarvetta ei ole.
 
-Sekoita kasviksista salaatti, ripottele päälle sopivasti pestoa ja asettele lopuksi nuggetit. Valmista myös leipä.
+Sekoita kasviksista salaatti, ripottele päälle sopivasti pestoa ja asettele lopuksi nugetit. Valmista myös leipä.
 
 **Yksi annos:**
 

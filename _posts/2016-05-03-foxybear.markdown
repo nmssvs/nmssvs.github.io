@@ -6,7 +6,7 @@ photo: /images/restaurants/2016-05-03-foxybear.jpg
 author: Verna Koskinen
 categories: ulkona
 restaurant: Foxy Bear
-tags: Pikaruokaa
+tags: Illallinen
 ---
 
 Foxy Bear on sitä aitoa oikeaa Herttoniemeä. :) Paikka on ollut pystyssä Eränkävijäntorilla jo niin pitkään kuin pystyn muistamaan ja annoksien koot ja maut on taatusti kohdillaan. Haluttiin käydä täällä vielä kertaalleen ennen lähtöä kesäksi harjoitteluun.

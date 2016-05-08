@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Nyhtökaurapizzaa"
+date:   2016-05-05 21:00:00 +0200
+photo: /images/recipes/2016-05-05-pizza.jpg
+author: Verna Koskinen
+categories: resepti
+tags: Pizza
+---
+
+Ehkäpä paras pizza joka on saatu aikaiseksi tähän mennessä. :) Pohjalla oleva reilu kerros mustapaputahnan ja Ajvar kastikeen sekoitusta on aivan mahtava pizzakastike.
+
+**Pizzapohja (1 kpl):**
+
+- 1 dl vettä
+- loraus öljyä
+- 1/4 pussillinen kuivahiivaa
+- Ruisjauhoja ehkä 1/5 jauhoista
+- Durumvehnäjauhoja loput jauhoista
+
+Lämmitä vesi ja lisää siihen kuivahiiva. Loput hiivasta säilyy pakkasessa seuraavaa käyttökertaa varten. Lorauta sekaan n. ruokalusikallinen öljyä ja sekoita sekaan jauhoja, kunnes taikina on sopivan kiinteää, jotta sen voi taputella pizzapohjan muotoiseksi. Aseta uuni lämpenemään pizzakiven kanssa niin kuumalle kuin sen saa. Anna taikinan levätä kankaan alla sillä aikaa kun valmistelet täytteet.
+
+![pizzataikina]({{ site.url }}/images/recipes/2016-04-02-pizza2.jpg)
+
+Valmiin pizzataikinan koostumus.
+
+**Täytteet:**
+
+- Mustapapuja chilikastikkeessa (etnokaupoista saa ainakin)
+- Ajvarkastiketta (myös etnokaupoista)
+- Vegejuustoa (esim. Cheezly chilipaprika)
+- 1/4 paketillista nyhtökauraa
+- Kirsikkatomaatteja
+- Pari valkosipulinkynttä
+
+Painele pizzataikina leivinpaperin päällä pizzan muotoiseksi. Käytä vehnäjauhoja apuna. Sekoita mustapaputahna ja Ajvarkastike , niin että Ajvaria on hiukan yli puolet seoiksesta. Levitä taikinan päälle tasainen kerros kastiketta. Ripottele päälle ohut kerros raastettua vegejuustoa, nyhtökaura ja kirsikkatomaatin puolikkaat.
+
+Paista kuuman kiven tai pellin päällä n. 5 minuuttia. Vahdi pizzan reunoja, valmista on kun reuna saa kauniin värin. Ripottele päälle runsaasti puristettua ja pieneksi silputtua valkosipulia.
+
+Huomattiin että Cheezlyn juusto on parempaa pizzaa varten kuin Violifen. Juusto on hiukan hankalampaa raastaa, mutta sen ravintoarvot ovat huomattavasti paremmat ja se sulaa tasaisemmin.
+
+**Yksi pizza:**
+
+- 3.5€
+- 850 kcal
+- 40 g proteiinia
+- 95 g hiilihydraatteja
+- 30 g rasvaa

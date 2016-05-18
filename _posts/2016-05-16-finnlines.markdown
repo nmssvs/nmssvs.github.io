@@ -6,7 +6,7 @@ photo: /images/restaurants/2016-05-12-finnlines1.jpg
 author: Ilari Mäkimattila
 categories: ulkona
 restaurant: Finnlines Helsinki-Travemünde
-tags: Aamiainen, Illallinen
+tags: Aamupala Illallinen
 ---
 
 Oikaisin Helsingistä Travemündeen moottoripyöräni kanssa Finnlinesin Finnstar -laivalla. Matkaa ostaessani minua 

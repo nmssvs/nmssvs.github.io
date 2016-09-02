@@ -12,7 +12,7 @@ title: Reseptit
 
 <div class="tag-list">
   {% for tag in sortedtags %}
-  {% if tag != 'Illallinen' and tag != 'Lounas' %}
+  {% if tag != 'Illallinen' and tag != 'Lounas' and tag != 'Matkustus' %}
   <div class="tag-block">
     <div class="tag-head" id="{{ tag }}">
       <img src="{{ site.tags[tag][0].photo }}">

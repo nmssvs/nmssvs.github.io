@@ -4,9 +4,9 @@ title:  "Laivaruokaa Finnlinesillä"
 date:   2016-05-16
 photo: /images/restaurants/2016-05-12-finnlines1.jpg
 author: Ilari Mäkimattila
-categories: ulkona
+categories: ulkomailla
 restaurant: Finnlines Helsinki-Travemünde
-tags: Aamupala Illallinen
+tags: Matkustus
 ---
 
 Oikaisin Helsingistä Travemündeen moottoripyöräni kanssa Finnlinesin Finnstar -laivalla. Matkaa ostaessani minua 

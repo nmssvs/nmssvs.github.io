@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Ruisbruchettoja"
+date:   2016-09-09
+photo: /images/recipes/2016-09-09-leivat.jpg
+author: Verna Koskinen
+categories: resepti
+tags: Välipala
+---
+
+Perinteisiä bruchettoja ruokaisampi välipala / alkupala.
+
+**Valmistus (8 kpl):**
+
+- Neljä ruisnepparia (esim. Sinuhe)
+- Valkosipulihummusta (esim. ILO)
+- 2-3 tomaattia
+- Pieni puolikas kesäkurpitsa
+- Sipuli
+- Seitanmakkaraa n. 100g (esim. Wheaty)
+- Kasvijuustoa
+- Kaksi avokadoa
+
+Pilko kesäkurpitsa ja sipuli pieniksi kuutioiksi ja paista hetki pannulla. Pilko myös tomaatti ja seitan kuutioiksi ja sekoita paistetun sipulin ja kesäkurpitsan kanssa erillisessä astiassa.
+
+Sivele ruisnepparin puolikkaat valkosipulihummuksella ja asettele päälle reilut annokset äsken valmistettua täytettä. Ripottele päälle hieman kasvijuustoa.
+
+Paista 275 asteisessa uunissa (grillivastuksella jos sellainen löytyy) kunnes juusto on hiukan sulanut ja leipien reunat alkaa saada väriä.
+
+Kuutioi myös avokadot ja asettele reilu annos jokaisen leivän päälle vielä kun ne ovat kuumia.
+
+![Kaksi kahden leivän annosta]({{ site.url }}/images/recipes/2016-09-09-leivat2.jpg)
+
+**Yksi leipä:**
+
+- 1.5€
+- 240 kcal
+- 8 g proteiinia
+- 15 g hiilihydraatteja
+- 7 g rasvaa

@@ -10,11 +10,11 @@ eläintuotteita sisältävää ruokaa. “Kaikkea” ei yleensä koeta tyydyttä
 kumpusi halu perustaa tämä blogi. Näyttämällä on paljon helpompi avata mitä muuta kuin 
 salaatinlehtiä ja porkkanaa vegaanin elämään voi kulinaristisessa mielessä kuulua. :) 
 
-Blogia ylläpitää lähes vegaani kasvissyöjäpariskunta Helsingistä, kaikki ruuat ovat vegaanisia 
-ellei muuten mainita. Itse tekemäämme ruokaan kuuluu (ainakin yleensä) valmistusohjeet, joita ei 
+Blogia ylläpitää lähes vegaani kasvissyöjäpariskunta Helsingistä, kaikki ruuat ovat vegaanisia. 
+Itse tekemäämme ruokaan kuuluu (ainakin yleensä) valmistusohjeet, joita ei 
 ole tarkoitus seurata pilkuntarkasti. Ruoanlaitto ei ole rakettitiedettä, ainesosia voi yhdistellä 
 oman maun mukaan ja sekaan kannatta heittää jääkaapin perältä uhkaavasti vanhenemista lähestyviä 
-tuotteita ennen kuin on myöhäistä. Meillä ei ainakaan koskaan käytetä mittoja tai vaakoja määrien 
+tuotteita ennen kuin on myöhäistä. Meillä ei yleensä koskaan käytetä mittoja tai vaakoja määrien 
 varmistamiseen joten ne ovat myös ohjeissa suuntaa antavia. Lisäksi mahdolliset statistiikat 
 annoksien sisällöistä ja hinnoista on vain sen hetkisiä arvioita (ravintoainetiedot arvioitu 
 Finelin tai paketin tietojen mukaan).

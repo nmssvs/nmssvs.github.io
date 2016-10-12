@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Meetvurstipizzaa"
+date:   2016-09-23
+photo: /images/recipes/2016-09-23-pizza1.jpg
+author: Verna Koskinen
+categories: resepti
+tags: Pizza
+---
+
+Meidän uusin löytö vegaaneilla ruokamarkkinoilla on Wheatyn Vegemeetvursti. Se myydään 200g pötköissä ja soveltuu aivan kaikkeen ruuanlaittoon melko edullisena ja monipuolisena valmisteena. (Ja kumma kyllä on halvinta Stockmannilla! Kuka olisikaan uskonut, vielä vuosi takaperin tosta puljusta ei saanut juuri mitään vegaaneille, saati sitten edullisesti!)
+
+**Pizzapohja:** [Katso täältä](/resepti/2016/04/02/pizzaa.html)
+
+
+**Täytteet:**
+
+- Tomaattipyreetä
+- Chilikastiketta
+- Vegejuustoa (esim. Cheezly)
+- Vegemeetvurstia (esim. Wheaty)
+- Pieniä ananaspaloja
+- Jalapenosiivuja
+- Rucolaa
+- Sriracha majoneesia
+
+Painele pizzataikina leivinpaperin päällä pizzan muotoiseksi. Levitä taikinan päälle reilusti tomaattipyreen ja chilikastikkeen sekoitusta. Ripottele päälle ohut kerros raastettua vegejuustoa.
+
+Ripottele päälle kuutioitu meetvursti, ananaspalat ja jalapenot. Paista kuuman kiven tai pellin päällä n. 5 minuuttia. Vahdi pizzan reunoja, valmista on kun reuna saa kauniin värin. Varsinkin kiven kanssa kannattaa vahtia pizzaa tarkkaan jottei sitä polta.
+
+Levitä kypsän pizzan päälle salaatti ja Sriracha majoneesi.
+
+![pizza 2]({{ site.url }}/images/recipes/2016-09-23-pizza2.jpg)
+
+Pizza toimii myös ilman taittoa.
+
+**Yksi pizza:**
+
+- 3.5€
+- 700 kcal
+- 30 g proteiinia
+- 80 g hiilihydraatteja
+- 25 g rasvaa
+

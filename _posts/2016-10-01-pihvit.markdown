@@ -1,0 +1,107 @@
+---
+layout: post
+title:  "Härkis-seitan-pihvejä"
+date:   2016-10-01
+photo: /images/recipes/2016-10-01-pihvit.jpg
+author: Verna Koskinen
+categories: resepti
+tags: Pääruoka
+---
+
+Maukkaat ja proteiinipitoiset Härkis-seitan-pihvit valmistuu nopeasti ja on todella helppo paistaa sitkoisen seitan rakenteensa vuoksi. Alla muutama eri vaihtoehto lisukkeiksi tuomaan inspiraatiota, mutta nämä sopisi myös esim. hampurilaisen väliin, grillattavaksi, tai vaikka pulliksi pyöräytettyinä pastakastikkeeseen.
+
+**Pihvit (n. 12 kpl):**
+
+- Paketti Härkistä
+- Kaurakerma
+- Iso sipuli
+- Sipulikeittopussi
+- n. 4-5dl gluteenijauhoa
+- n. 4-5dl kikhernejauhoa (gramjauho)
+- Cajun yleismaustetta
+- Savupaprikaa
+- Korppujauhoja
+
+Silppua Härkis ja sipuli pieniksi paloiksi. Kuullota sipuli nopeasti pienessä öljytilkassa ja sekoita keskikokoisessa kulhossa härkiksen kanssa. Kaada sekaan reilusti cajun maustetta ja savupaprikaa, sipulikeittopussin sisältö ja kaurakerma. Sekoita hyvin ja lusikoi samalla sekaan vuorotellen gluteeni- ja kikhernejauhoa, kunnes taikina on jotakuinkin kiinteää, eikä tartu liikaa kauhaan, muttei kuitenkaan kovaa.
+
+Levitä leikkuualustalle tasainen kerros korpujauhoja, irrota taikinasta pieni nyrkin kokoinen pallo taikinaa ja litistä se pihvin muotoon. Käännä molemminpuolin korppujauhoissa niin että pinta ei ole enää tahmeaa. Toista lopulle taikinalle samalla paistaen ensimmäisiä pihvejä ja lisäämällä korppuajuhoja jos ne meinaa loppua.
+
+Paista pihvit öljyä säästelemättä keskilämmöllä (itsellä 4/6) molemmin puolin kunnes pinta saa sopivasti väriä. Mitä ohuempia pihvejä teit, sen kuumemmalla voit paistaa jotta pihvi kypsyy myös keskeltä, paksuja pihvejä saa paistaa melko tovin molemmin puolin. :)
+
+![Pihvikasa]({{ site.url }}/images/recipes/2016-10-01-pihvit4.jpg)
+
+**Bataattiranet (2 annosta):**
+
+- Pieni bataatti
+- ruokalusikallinen oliiviöljyä
+- Vampyyrisuolaa tai muuta maustetta
+
+Pese bataatti hyvin juuresharjalla. Leikkaa noin 1-1.5 cm paksuisten ranskalaisten muotoon. Lisää kulhoon ja kaada pqälle oliiviöljy ja mausteet. Sekoita kunnes kaikki bataattisiivut on saaneet oman osansa öljyä sekä mausteita.
+
+Lämmitä 200 asteisessa uunissa n.15 minuuttia, käännä ja lämmitä toinen vartti, kunnes ranet on sopivan rapeita. Varmista etteivät ranet ole kypsentäessä pellillä päällekkäin.
+
+**Yksi annos (pihvi + ranet):**
+
+- 3€
+- 550 kcal
+- 30 g proteiinia
+- 45 g hiilihydraatteja
+- 25 g rasvaa
+
+![Curryriisi ja pihvi]({{ site.url }}/images/recipes/2016-10-01-pihvit1.jpg)
+
+**Curryriisi (2 annosta):**
+
+- Riisiä
+- Puolikas kaurakerma
+- Currymaustetta
+- Sinappia
+- Korianteria
+- Kardemummaa
+
+Keitä 2 annosta riisiä ohjeen mukaan. Kun kaikki vesi on imeytynyt, kaada sekaan puolikas kaurakerma, reilusti currymaustetta ja sinaappia, sekä ripaus korianteria ja kaardemummaa. Kiehauta sekoittaen samalla.
+
+**Yksi annos (pihvi + riisi):**
+
+- 3.5€
+- 550 kcal
+- 35 g proteiinia
+- 60 g hiilihydraatteja
+- 20 g rasvaa
+
+![Uunijuurekset ja pihvi]({{ site.url }}/images/recipes/2016-10-01-pihvit2.jpg)
+
+**Uunijuurekset (2 annosta):**
+
+- Pussillinen uunijuureksia pakasteesta
+
+Kypsennä pussin ohjeen mukaan.
+
+**Yksi annos (pihvi + juurekset):**
+
+- 3€
+- 450 kcal
+- 35 g proteiinia
+- 45 g hiilihydraatteja
+- 10 g rasvaa
+
+![Couscous ja pihvi]({{ site.url }}/images/recipes/2016-10-01-pihvit3.jpg)
+
+**Couscous ja pestokastike (2 annosta):**
+
+- 1.2 dl couscousia
+- Puolikas kaurakerma
+- Vajaa puolikas paketillinen vihreää pestoa (vain punaiset yleensä vegaanisia, mutta esim. Urtekramilta löytyy myös vihreä)
+- Pari valkosipulinkynttä
+
+Kuori valkosipulinkynnet ja paina ne rikki veitsen sivulla. Leikkaa tämän jälkeen pieniksi kuutioiksi ja kuullosta nopeasti pienessä kattilassa. Lisää sekaan kaurakerma ja pesto ja kiehauta.
+
+Keitä vedenkeittimessä reilusti vettä ja asettele sillä välin laakealle lautaselle couscous tasaisesti. Kaada kiehuva vesi suurimoiden päälle varovasti niin että ne peityvät veteen. Aseta toinen laakea lautanen nurinpäin edellisen päälle kanneksi ja anna hautua minuutti, pari. Poista kansi kun kaikki vesi on imeytynyt ja erottele couscous haarukalla sekoittaen.
+
+**Yksi annos (pihvi + couscous ja kastike):**
+
+- 3€
+- 550 kcal
+- 30 g proteiinia
+- 40 g hiilihydraatteja
+- 25 g rasvaa

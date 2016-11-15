@@ -322,9 +322,15 @@ p.rss-subscribe {
   position: relative;
   margin-top: -30px;
 
-  > img {
-    filter: brightness(75%);
+  .img-container {
+    max-height: 100vh;
+    overflow: hidden;
+
+    > img {
+      filter: brightness(75%);
+    }
   }
+
 
   > .post-meta {
     position: absolute;

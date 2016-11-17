@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vihreä avokadosalaatti"
+title:  "Vihreää avokadosalaattia"
 date:   2016-10-11
 photo: /images/recipes/2016-10-11-salaatti.jpg
 author: Verna Koskinen

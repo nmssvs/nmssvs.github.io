@@ -13,4 +13,4 @@ K-kauppojen salaattibaarit ovat osoittautuneet erinomaisiksi nopean ja edullisen
 
 Samaisesta kaupasta voisi toki ostaa salaattiaineet myös tuotteittain ja rakentaa salaatin kotona tai työpaikalla, joka tulee viikon lounaiden hinnassa myös jonkin verran edullisemmaksi. Mutta tämä on se vaivattomin ratkaisu ja yleensä myös takaa vaihtelevammat ja monipuolisemmat salaatit.
 
-![Salaatti](/images/restaurants/2016-09-14-salaattibaari2.jpg)
+![Salaatti](/images/restaurants/2016-09-14-salaattibari2.jpg)

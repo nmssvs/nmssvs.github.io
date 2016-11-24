@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Snägäriruokaa"
+date:   2016-10-02
+photo: /images/restaurants/2016-10-02-jano.jpg
+author: Verna Koskinen
+categories: ulkona
+restaurant: Jänö
+tags: Illallinen
+---
+
+Jänö on tänä vuonna Helsinkiin joukkorahoituskampanjan avulla perustettu vegaaninen lippakioski. Se tarjoaa useita vegaaneja annoksia kioskin luukulta saman tien valmistettuna, itse valitsin nyhtökaurapitan ja mansikkalimonadin. Pita oli mielestäni hieman pieni hintaansa nähden ja makuelämykseltään melko peruslaatua, mutta ehkä se sopii snägärityyliin. Perjantaisin ja lauantaisin Jänö on auki keskustan kupeessa pikkutunneille, joten nälkäiseksi ei enää tarvitse viikonloppua viettäessä vegaaninkaan jäädä. :)

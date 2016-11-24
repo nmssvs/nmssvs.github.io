@@ -35,7 +35,7 @@ Kaada toisena valmistettu tomaattiseos cannellonien päälle lopuksi niin että 
 
 Lämmitä 225 asteisessa uunissa noin 30 minuuttia.
 
-![Annos vuoassa](/images/restaurants/2016-10-18-cannellonit2.jpg)
+![Annos vuoassa](/images/recipes/2016-10-18-cannellonit2.jpg)
 
 **Yksi annos:**
 
